@@ -3,3 +3,4 @@ jxxghp/moviepilot
 linuxserver/qbittorrent
 linuxserver/transmission
 lswl/vertex
+louislam/uptime-kuma
