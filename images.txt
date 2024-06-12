@@ -1,1 +1,5 @@
-alpine:3.19.1
+emby/embyserver
+jxxghp/moviepilot
+linuxserver/qbittorrent
+linuxserver/transmission
+lswl/vertex
